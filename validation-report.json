@@ -1,0 +1,7 @@
+{
+  "build": "WCC-V1-ONLINE-DEVELOPMENT-CONTROL-APP",
+  "frontend_only": true,
+  "static_site": true,
+  "backend_required": false,
+  "js_syntax": "pass"
+}

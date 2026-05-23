@@ -1,0 +1,6 @@
+- [ ] Deploy static frontend
+- [ ] Badge/page loads
+- [ ] Add reply/test/upload/link
+- [ ] Copy report
+- [ ] Export JSON
+- [ ] Open second tab and confirm real-time localStorage sync
