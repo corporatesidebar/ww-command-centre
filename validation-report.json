@@ -1,8 +1,0 @@
-{
-  "stack": "EE-GOVERNED-INFRASTRUCTURE-STACK-V1",
-  "projects": [
-    "WCC-V2-GOVERNANCE-CONTROL",
-    "EE-MVC-FOUNDATION-V1",
-    "GOVERNANCE-MODEL"
-  ]
-}
