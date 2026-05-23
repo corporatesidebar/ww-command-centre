@@ -1,0 +1,10 @@
+{
+  "project": "WCC-V2-GOVERNANCE-CONTROL",
+  "results": [
+    {
+      "file": "frontend/app.js",
+      "syntax": "pass",
+      "error": ""
+    }
+  ]
+}

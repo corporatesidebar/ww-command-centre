@@ -1,5 +1,5 @@
-# WCC V1 Online Development Control App
+# EE Governed Infrastructure Stack V1
 
-Static Render-ready app. Upload the `frontend/` folder to your static site repo/root.
+Contains WCC V2, EE MVC Foundation V1, and Governance Model docs.
 
-Features: real-time localStorage sync across tabs, reports, tests, links, uploads, queue, prompt generator.
+Deploy WCC V2 first. Use it to govern EE stabilization.
